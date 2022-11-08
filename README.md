@@ -21,10 +21,8 @@ There are 3 directories:
 
 Login screen:
 
-![login](/home/sek/projects/uprocktest/gitImg/login.png)
+![login](./gitImg/login.png)
 
 Logged in screen: 
 
-![image-20221108190607003](/home/sek/.config/Typora/typora-user-images/image-20221108190607003.png)
-
-![logged](/home/sek/projects/uprocktest/gitImg/logged.png)
+![logged](./gitImg/logged.png)
